@@ -1,0 +1,90 @@
+/* CSS Document */
+.center_content{
+	width: 585px;
+	float: left;
+	padding: 5px 10px;	
+}
+
+.center_title_bar{
+	width: 575px;
+	float: left;
+	background: #F3EBEB;
+	line-height: 33px;
+	font-weight: bold;
+	color:darkred;
+	font-size: 16px;
+}
+
+.pord_box{
+	width: 173px;
+	height: auto;
+	float: left;
+	padding: 10px 10px 10px 11px;
+	font-size: 14px;
+}
+
+.top_prod_box{
+	width: 173px;
+	height: 12px;
+	float: left;
+	background: #BBA0A1
+}
+
+.bottom_prod_box{
+	width: 173px;
+	height: 12px;
+	float: left;
+	background: #BBA0A1
+}
+
+.center_prod_box{
+	width: 173px;
+	height: auto;
+	float: left;
+	text-align: center;
+	background: #FEDEDE;
+}
+
+.GioiThieu{
+	width: 538px;
+	float: left;
+	padding: 15px 30px 0 30px;
+}
+.GioiThieu .GioiThieu_details{
+	width: 200px;
+	float: left;
+	padding: 0 0 0 30px;
+}
+
+.GioiThieu .GioiThieu_images{
+	float: left;
+	padding: 0 0 10px 0;
+}
+.GioiThieu .GioiThieu_details .GioiThieu_title{
+	font-size: 22px;
+	color: white;
+	font-weight: bold;
+}
+
+.GioiThieu .GioiThieu_details .GioiThieu_text{
+	padding: 5px 0 5px 0;
+	font-size: 17px;
+	color: #FFFFFF;
+	text-align: left;
+	line-height: 15px;
+}
+
+.GioiThieu .XemPhim{
+	width: 83px;
+	height: 21px;
+	display: block;
+	float: left;
+	margin: 5px 0 0 0 0; 
+	padding-left: 5px;
+	background: #122DC7 no-repeat center;
+	text-align: center;
+	line-height: 21px;
+	text-decoration: none;
+	color: aliceblue;
+}
+

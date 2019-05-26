@@ -1,0 +1,76 @@
+/* CSS Document */
+
+.prod_box_big{
+	width: 554px;
+	height: auto;
+	float: left;
+	padding: 10px 10px 10px 15px;
+}
+
+.center_prod_box_big{
+	width: 554px;
+	height: 400 px;
+	float: left;
+	background: #B7C8D3;
+}
+
+.contact_form{
+	width: 355px;
+	float: left;
+	padding: 0 0 10px 75px;
+}
+
+.form_row{
+	width: 355px;
+	color: black;
+	padding: 10px 0;
+	clear: both;
+}
+
+label.contact{
+	width: 75px;
+	float: left;
+	font-size: 12px;
+	text-align: right;
+	color: #333333;
+	padding: 4px 5px 0 0;
+	
+}
+
+input.contact_input{
+	width: 253px;
+	height: 18px;
+	background: #FFFFFF;
+	color: #999999;
+	border: 1px #DFDFDF solid;
+	float: left;
+}
+textarea.contact_area{
+	width: 253px;
+	height: 50px;
+	font-size: 12px;
+	background: #FFFFFF;
+	color: #999999;
+	border: 1px #DFDFDF solid;
+	float: left;
+	min-width: 253px;
+	max-width: 253px;
+}
+a.contact{
+	background: #3652D5;
+	width: 99px;
+	height: 27px;
+	display: block;
+	float: right;
+	text-decoration: none;
+	line-height: 27px;
+	color: aliceblue;
+	font-size: 15px;
+	text-align: center;
+}
+
+
+
+
+
+

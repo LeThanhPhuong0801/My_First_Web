@@ -1,0 +1,52 @@
+/* CSS Document */
+.footer{
+	width: 1000px;
+	height: 100px;
+	float: left;
+	background: #0097C5;
+	
+}
+
+.foot_details{
+	font-size: 20px;
+}
+
+.content .pagination{
+	width: 500px;
+	float: right;
+}
+
+.content .pagination a:hover, .footer .pagination a:active{
+	width: 22px;
+	height: 22px;
+	display: block;
+	float: left;
+	margin-left: 5px;
+	line-height: 23px;
+	text-align: center;
+	background: #FF0004;
+	text-decoration: none;
+}
+
+.content .pagination a{
+	width: 22px;
+	height: 22px;
+	display: block;
+	float: left;
+	margin-left: 5px;
+	margin-right: 5px;
+	line-height: 23px;
+	text-align: center;
+	background: #FFFFFF;
+	text-decoration: none;
+}
+
+.content .pagination .current{
+	width: 22px;
+	height: 22px;
+	display: block;
+	float: left;
+	line-height: 23px;
+	text-align: center;
+	background: #FF0004;
+}

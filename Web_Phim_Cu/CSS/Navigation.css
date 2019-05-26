@@ -1,0 +1,15 @@
+/* CSS Document */
+.Navigation{
+	width: 1000px;
+	height: 15px;
+	padding: 5 10 0 20;
+	color: #333333 ;
+	background-color: aqua;
+	font-size: 16px;
+}
+
+.Navigation span.current{
+	font-size: 16px;
+	color: #010101;
+	
+}
